@@ -3,7 +3,7 @@
 Este repositório contém o projeto da **Fase 2** do Tech Challenge (Pós-Tech IA para Devs). O projeto evolui a base do sistema de suporte ao diagnóstico da Fase 1, incorporando **Algoritmos Genéticos (AG)** para a otimização de hiperparâmetros e **Modelos de Linguagem de Grande Escala (LLM)** para a interpretação humanizada dos resultados médicos.
 
 ## 📺 Demonstração do Projeto
-* **Link para o YouTube:** [A COLOCAR] 
+* **Link para o YouTube:** https://www.youtube.com/watch?v=5YBZP57DvKs
 * **Apresentação:** Demonstração do pipeline no Databricks, tracking no MLflow e geração de insights via GPT-4o.
 
 ## 🛠️ Arquitetura do projeto
